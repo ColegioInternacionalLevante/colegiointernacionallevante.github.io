@@ -1,0 +1,75 @@
+{
+    "title": "Playgrounds Colegio Internacional Levante",
+    "publisherName": "Colegio Internacional de Levante",
+    "feedIdentifier": "io.github.colegiointernacionallevante",
+    "contactURL": "mailto:regido@seklevante.com",
+    "formatVersion": "1.0",
+    "documents": [
+                 {
+				  "title": "The five Kingdoms",
+                  "overviewSubtitle": "Programación como herramienta transversal",
+                  "detailSubtitle": "Programación como herramienta transversal.",
+                  "description": "Enseña conceptos de programación del lenguaje Swift mientras repasas contenidos de otras asignaturas.",
+                  "contentIdentifier": "io.github.colegiointernacionallevante.fivekingdoms",
+                  "contentVersion": "1.0",
+                  "url": "FiveKingdoms/FiveKingdoms.playgroundbook.zip",
+                  "publishedDate": "2018-07-02T16:13:57+02:00",
+                  "lastUpdatedDate": "2018-07-02T16:13:57+02:00",
+                  "thumbnailURL": "https://swift.rodrigoegido.es/FiveKingdoms/thumbnail.png",
+                  "bannerImageURL": "https://swift.rodrigoegido.es/FiveKingdoms/banner.png",
+                  "additionalInformation": [
+                                            {
+                                            "name": "Languages",
+                                            "value": "Spanish,English,Valencian"
+                                            }
+                                            ],
+                  "previewImageURLs": [
+                  	"FiveKingdoms/preview_fk1.png"
+                  ]
+                  },
+                 {
+				  "title": "R-Equality",
+                  "overviewSubtitle": "Programación como herramienta transversal",
+                  "detailSubtitle": "Programación como herramienta transversal.",
+                  "description": "Enseña conceptos de programación del lenguaje Swift mientras repasas contenidos de otras asignaturas.",
+                  "contentIdentifier": "io.github.colegiointernacionallevante.R-Equality",
+                  "contentVersion": "1.0",
+                  "url": "R-Equality/R-Equality.playgroundbook.zip",
+                  "publishedDate": "2018-07-02T16:13:57+02:00",
+                  "lastUpdatedDate": "2018-07-02T16:13:57+02:00",
+                  "thumbnailURL": "https://swift.rodrigoegido.es/R-Equality/thumbnail.png",
+                  "bannerImageURL": "https://swift.rodrigoegido.es/R-Equality/banner.png",
+                  "additionalInformation": [
+                                            {
+                                            "name": "Languages",
+                                            "value": "Spanish,English,Valencian"
+                                            }
+                                            ],
+                  "previewImageURLs": [
+                  	"R-Equality/preview_fr1.png"
+                  ]
+                  },
+                  {
+                  "title": "El huevo o la gallina",
+                  "overviewSubtitle": "Programación como herramienta transversal",
+                  "detailSubtitle": "Programación como herramienta transversal.",
+                  "description": "Enseña conceptos de programación del lenguaje Swift mientras repasas contenidos de otras asignaturas.",
+                  "contentIdentifier": "io.github.colegiointernacionallevante.Huevo-Gallina",
+                  "contentVersion": "1.0",
+                  "url": "Huevo-Gallina/Huevo-Gallina.playgroundbook.zip",
+                  "publishedDate": "2018-07-02T17:17:30+02:00",
+                  "lastUpdatedDate": "2018-07-02T17:30:57+02:00",
+                  "thumbnailURL": "https://swift.rodrigoegido.es/Huevo-Gallina/thumbnail.png",
+                  "bannerImageURL": "https://swift.rodrigoegido.es/Huevo-Gallina/banner.png",
+                  "additionalInformation": [
+                                            {
+                                            "name": "Languages",
+                                            "value": "Spanish,English,Valencian"
+                                            }
+                                            ],
+                  "previewImageURLs": [
+                  	"Huevo-Gallina/preview_hg1.png"
+                  ]
+                  }
+			]
+}
