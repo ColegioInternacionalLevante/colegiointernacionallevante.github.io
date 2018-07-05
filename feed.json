@@ -27,6 +27,27 @@
                   	"FiveKingdoms/preview_fk1.png"
                   ]
                   },
+                  {
+                  "title": "01 Motores",
+                  "overviewSubtitle": "Programa tu EV3 con codigo Swift",
+                  "detailSubtitle": "Programa tu EV3 con codigo Swift.",
+                  "description": "Aprende a programar con Swift los motores de tu EV3 Mindstorm",
+                  "contentIdentifier": "io.github.colegiointernacionallevante.01Motores",
+                  "contentVersion": "1.0",
+                  "url": "01Motores/01Motores.playgroundbook.zip",
+                  "publishedDate": "2018-02-15T21:13:57+00:00",
+                  "lastUpdatedDate": "2018-02-15T21:13:57+00:00",
+                  "thumbnailURL": "01Motores/StoreBanner.jpeg",
+                  "bannerImageURL": "01Motores/StoreBanner.jpeg",
+                  "additionalInformation": [
+                                            {
+                                            "name": "Idiomas",
+                                            "value": "Español,Inglés"
+                                            }
+                                            ],
+                  "previewImageURLs": [
+                                       "01Motores/StoreBanner.jpeg"
+                                       ],
                  {
 				  "title": "R-Equality",
                   "overviewSubtitle": "Programación como herramienta transversal",
